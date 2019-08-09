@@ -1,0 +1,5 @@
+In this code if we go to a particular department and press back button we will be redirected to the department list with the last visited department being highlighted.
+
+last visited department is highlighted using optional route parameters.
+
+In this code, id is the optional route parameter and we use the id to highlight a particular department
